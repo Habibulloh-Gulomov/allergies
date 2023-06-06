@@ -1,0 +1,15 @@
+D:\BA IT\allergies\allergies\allergies\bin\Debug\net6.0\allergies.exe
+D:\BA IT\allergies\allergies\allergies\bin\Debug\net6.0\allergies.deps.json
+D:\BA IT\allergies\allergies\allergies\bin\Debug\net6.0\allergies.runtimeconfig.json
+D:\BA IT\allergies\allergies\allergies\bin\Debug\net6.0\allergies.dll
+D:\BA IT\allergies\allergies\allergies\bin\Debug\net6.0\allergies.pdb
+D:\BA IT\allergies\allergies\allergies\obj\Debug\net6.0\allergies.csproj.AssemblyReference.cache
+D:\BA IT\allergies\allergies\allergies\obj\Debug\net6.0\allergies.GeneratedMSBuildEditorConfig.editorconfig
+D:\BA IT\allergies\allergies\allergies\obj\Debug\net6.0\allergies.AssemblyInfoInputs.cache
+D:\BA IT\allergies\allergies\allergies\obj\Debug\net6.0\allergies.AssemblyInfo.cs
+D:\BA IT\allergies\allergies\allergies\obj\Debug\net6.0\allergies.csproj.CoreCompileInputs.cache
+D:\BA IT\allergies\allergies\allergies\obj\Debug\net6.0\allergies.dll
+D:\BA IT\allergies\allergies\allergies\obj\Debug\net6.0\refint\allergies.dll
+D:\BA IT\allergies\allergies\allergies\obj\Debug\net6.0\allergies.pdb
+D:\BA IT\allergies\allergies\allergies\obj\Debug\net6.0\allergies.genruntimeconfig.cache
+D:\BA IT\allergies\allergies\allergies\obj\Debug\net6.0\ref\allergies.dll
